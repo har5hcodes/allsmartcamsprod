@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.926b770b.css",
+    "main.js": "/static/js/main.a2e9730e.js",
+    "static/media/generatedGif1679851617.gif": "/static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif",
+    "static/media/generatedGif1680541404.gif": "/static/media/generatedGif1680541404.2d19e9d4cad012059494.gif",
+    "static/media/generatedGif1679790783.gif": "/static/media/generatedGif1679790783.20f842b5d5d87e4a72ed.gif",
+    "static/media/generatedGif1680541026.gif": "/static/media/generatedGif1680541026.2c8e5383bf121814da89.gif",
+    "static/media/generatedGif1680541453.gif": "/static/media/generatedGif1680541453.730283dfbf798556ccb9.gif",
+    "static/media/generatedGif1680540756.gif": "/static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif",
+    "static/media/generatedGif1678976575.gif": "/static/media/generatedGif1678976575.e7ad3679a9efd7252487.gif",
+    "static/media/generatedGif1680579968.gif": "/static/media/generatedGif1680579968.c47e419849fcd3195493.gif",
+    "static/media/generatedGif1680541056.gif": "/static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif",
+    "static/media/generatedGif1680541325.gif": "/static/media/generatedGif1680541325.0836290b9c4b777cf688.gif",
+    "static/media/generatedGif1680541433.gif": "/static/media/generatedGif1680541433.17573b54b9f04c8adebe.gif",
+    "static/media/generatedGif1680548088.gif": "/static/media/generatedGif1680548088.d90d5e5f96f42369bd9e.gif",
+    "static/media/generatedGif1680541220.gif": "/static/media/generatedGif1680541220.4e6850328183f15ff083.gif",
+    "static/media/generatedGif1680575318.gif": "/static/media/generatedGif1680575318.b7fe20256a227faf33de.gif",
+    "static/media/generatedGif1680575162.gif": "/static/media/generatedGif1680575162.12c9d154e9beba8e30b2.gif",
+    "static/media/generatedGif1680540269.gif": "/static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif",
+    "static/media/generatedGif1680540093.gif": "/static/media/generatedGif1680540093.34af1948ff2a829faaa8.gif",
+    "static/media/generatedGif1680541163.gif": "/static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif",
+    "index.html": "/index.html",
+    "main.926b770b.css.map": "/static/css/main.926b770b.css.map",
+    "main.a2e9730e.js.map": "/static/js/main.a2e9730e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926b770b.css",
+    "static/js/main.a2e9730e.js"
+  ]
+}

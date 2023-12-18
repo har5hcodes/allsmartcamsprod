@@ -1,0 +1,1659 @@
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  3/29/2023 5:28:57 PM 127.0.0.1 GET /video/cI5EqFMJaMI
+ HTTP  3/29/2023 5:28:57 PM 127.0.0.1 Returned 200 in 20 ms
+ HTTP  3/29/2023 5:28:57 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:28:57 PM ::1 Returned 200 in 2 ms
+ HTTP  3/29/2023 5:28:57 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:28:57 PM 127.0.0.1 Returned 304 in 4 ms
+ HTTP  3/29/2023 5:29:24 PM ::1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 5:29:24 PM ::1 Returned 200 in 2 ms
+ HTTP  3/29/2023 5:29:39 PM 127.0.0.1 GET /search/tahoe/youtube
+ HTTP  3/29/2023 5:29:39 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  3/29/2023 5:29:39 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:29:39 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:29:39 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:29:39 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:29:40 PM ::1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 5:29:40 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:32:59 PM 127.0.0.1 GET /video/1EiC9bvVGnk
+ HTTP  3/29/2023 5:32:59 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:32:59 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:32:59 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:32:59 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:32:59 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:33:14 PM ::1 GET /video/1EiC9bvVGnk
+ HTTP  3/29/2023 5:33:14 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:33:15 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:33:15 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:33:15 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:33:15 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:34:52 PM 127.0.0.1 GET /video/1EiC9bvVGnk
+ HTTP  3/29/2023 5:34:52 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 5:34:52 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:34:52 PM ::1 Returned 200 in 0 ms
+ HTTP  3/29/2023 5:34:52 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:34:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:35:14 PM ::1 GET /video/nuj7qeH0kzI
+ HTTP  3/29/2023 5:35:14 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:35:14 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:35:14 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:35:14 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:35:14 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:35:14 PM 127.0.0.1 GET /logo192.png
+ HTTP  3/29/2023 5:35:14 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:35:14 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 5:35:14 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:36:08 PM 127.0.0.1 GET /search/bigbearmountainresort/youtube
+ HTTP  3/29/2023 5:36:08 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:36:08 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:36:08 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:36:08 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:36:08 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:36:08 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 5:36:08 PM ::1 Returned 200 in 0 ms
+ HTTP  3/29/2023 5:54:24 PM ::1 GET /bookupload
+ HTTP  3/29/2023 5:54:24 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 5:54:24 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 5:54:24 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 5:54:24 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 5:54:24 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:24:49 PM 127.0.0.1 GET /
+ HTTP  3/29/2023 9:24:49 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  3/29/2023 9:24:49 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:24:49 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:24:50 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:24:50 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:24:51 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:24:51 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:25:01 PM 127.0.0.1 GET /video/DxZziUUr6CY
+ HTTP  3/29/2023 9:25:01 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:25:01 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:25:01 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:01 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:25:01 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:25:11 PM ::1 GET /video/72UwX71pfa4
+ HTTP  3/29/2023 9:25:11 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:25:11 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:25:11 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:11 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:25:11 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:25:13 PM 127.0.0.1 GET /video/NwFcKwppVog
+ HTTP  3/29/2023 9:25:13 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:25:13 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:25:13 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:13 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:25:13 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:25:18 PM ::1 GET /video/w_DfTc7F5oQ
+ HTTP  3/29/2023 9:25:18 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:25:19 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:25:19 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:19 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:25:19 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:26 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:25:26 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:25:35 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:25:35 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:26:04 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:26:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:26:22 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:26:22 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:26:48 PM 127.0.0.1 GET /video/1lPnLBUIlko
+ HTTP  3/29/2023 9:26:48 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:26:48 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:26:48 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:26:49 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:26:49 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:26:57 PM ::1 GET /video/dyCxFZgrGXw
+ HTTP  3/29/2023 9:26:57 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:26:57 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:26:57 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:26:57 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:26:57 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:27:12 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:27:12 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:27:35 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:27:35 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:28:29 PM 127.0.0.1 GET /video/kxwuFPFUZyY
+ HTTP  3/29/2023 9:28:29 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:28:29 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:28:29 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:28:29 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:28:29 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:28:41 PM ::1 GET /video/yDKJMdZTEXQ
+ HTTP  3/29/2023 9:28:41 PM ::1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:28:41 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:28:41 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:28:41 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:28:41 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:28:46 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:28:46 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:29:04 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:29:04 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:05 PM 127.0.0.1 GET /video/rG13FY2ytno
+ HTTP  3/29/2023 9:30:05 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:30:05 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:30:05 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:05 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:30:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:07 PM ::1 GET /video/vQUQxcK-5_4
+ HTTP  3/29/2023 9:30:07 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:30:07 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:30:07 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  3/29/2023 9:30:07 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:30:07 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:15 PM 127.0.0.1 GET /video/upwiC_L74uM
+ HTTP  3/29/2023 9:30:15 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:30:15 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:30:15 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:15 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:30:15 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:30:29 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:30:29 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:30:47 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:30:47 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:31:23 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:31:23 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:32:27 PM 127.0.0.1 GET /
+ HTTP  3/29/2023 9:32:27 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:32:27 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:32:27 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:32:27 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:32:27 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:32:27 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:32:27 PM ::1 Returned 304 in 2 ms
+ HTTP  3/29/2023 9:43:43 PM 127.0.0.1 GET /video/[object%20Object]
+ HTTP  3/29/2023 9:43:43 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:43:43 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:43:43 PM ::1 Returned 304 in 5 ms
+ HTTP  3/29/2023 9:43:43 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:43:43 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:44:39 PM ::1 GET /search/bay%20area/youtube
+ HTTP  3/29/2023 9:44:39 PM ::1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:44:39 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:44:39 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:44:39 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:44:39 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:44:39 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:44:39 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:45:21 PM ::1 GET /
+ HTTP  3/29/2023 9:45:21 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:45:22 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:45:22 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:45:22 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:45:22 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:45:23 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:45:23 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:45:28 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:45:28 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:45:29 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 9:45:29 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 9:45:29 PM ::1 GET /static/js/main.5eef12d8.js.map
+ HTTP  3/29/2023 9:45:29 PM ::1 Returned 200 in 9 ms
+ HTTP  3/29/2023 9:45:37 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:45:37 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:45:41 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:45:41 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:45:59 PM 127.0.0.1 GET /search/bay%20area/youtube
+ HTTP  3/29/2023 9:45:59 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:46:00 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:46:00 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:46:00 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:46:00 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:46:00 PM ::1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 9:46:00 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:46:00 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:46:00 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:46:21 PM ::1 GET /search/san%20jose/youtube
+ HTTP  3/29/2023 9:46:21 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 9:46:21 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:46:21 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:46:21 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:46:21 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:46:21 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 9:46:21 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:47:47 PM ::1 GET /
+ HTTP  3/29/2023 9:47:47 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:47:47 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:47:47 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:47:48 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:47:48 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:50:52 PM 127.0.0.1 GET /
+ HTTP  3/29/2023 9:50:52 PM 127.0.0.1 Returned 304 in 5 ms
+ HTTP  3/29/2023 9:50:53 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 9:50:53 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 9:50:53 PM 127.0.0.1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 9:50:53 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 9:50:53 PM ::1 GET /favicon.ico
+ HTTP  3/29/2023 9:50:53 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:17:40 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 10:17:40 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:17:40 PM ::1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 10:17:40 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 10:17:40 PM 127.0.0.1 GET /static/js/main.5eef12d8.js.map
+ HTTP  3/29/2023 10:17:40 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  3/29/2023 10:38:53 PM ::1 GET /search/newyork/youtube
+ HTTP  3/29/2023 10:38:53 PM ::1 Returned 200 in 1 ms
+ HTTP  3/29/2023 10:38:53 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 10:38:53 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:38:53 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 10:38:53 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 10:38:53 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 10:38:53 PM 127.0.0.1 Returned 304 in 3 ms
+ HTTP  3/29/2023 10:39:00 PM ::1 GET /
+ HTTP  3/29/2023 10:39:00 PM ::1 Returned 304 in 2 ms
+ HTTP  3/29/2023 10:39:00 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 10:39:00 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:39:00 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 10:39:00 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:39:01 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 10:39:01 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:42:21 PM ::1 GET /video/DxZziUUr6CY
+ HTTP  3/29/2023 10:42:21 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 10:42:21 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 10:42:21 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  3/29/2023 10:42:21 PM ::1 GET /static/js/main.5eef12d8.js
+ HTTP  3/29/2023 10:42:21 PM ::1 Returned 304 in 0 ms
+ HTTP  3/29/2023 10:42:26 PM 127.0.0.1 GET /favicon.ico
+ HTTP  3/29/2023 10:42:26 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/29/2023 11:30:19 PM ::1 GET /static/css/main.a69b8bc5.css
+ HTTP  3/29/2023 11:30:19 PM ::1 Returned 304 in 1 ms
+ HTTP  3/29/2023 11:30:19 PM 127.0.0.1 GET /static/css/main.a69b8bc5.css.map
+ HTTP  3/29/2023 11:30:19 PM 127.0.0.1 Returned 304 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  3/30/2023 2:54:40 AM 127.0.0.1 GET /books
+ HTTP  3/30/2023 2:54:40 AM 127.0.0.1 Returned 200 in 18 ms
+ HTTP  3/30/2023 2:54:41 AM 127.0.0.1 GET /static/css/main.39e51004.css
+ HTTP  3/30/2023 2:54:41 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  3/30/2023 2:54:41 AM ::1 GET /static/js/main.f0c7a633.js
+ HTTP  3/30/2023 2:54:41 AM ::1 Returned 200 in 3 ms
+ HTTP  3/30/2023 2:54:42 AM 127.0.0.1 GET /favicon.ico
+ HTTP  3/30/2023 2:54:42 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:54:51 AM ::1 GET /
+ HTTP  3/30/2023 2:54:51 AM ::1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:54:51 AM 127.0.0.1 GET /static/css/main.39e51004.css
+ HTTP  3/30/2023 2:54:51 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/30/2023 2:54:51 AM ::1 GET /static/js/main.f0c7a633.js
+ HTTP  3/30/2023 2:54:51 AM ::1 Returned 304 in 1 ms
+ HTTP  3/30/2023 2:55:10 AM 127.0.0.1 GET /
+ HTTP  3/30/2023 2:55:10 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:55:10 AM ::1 GET /static/css/main.39e51004.css
+ HTTP  3/30/2023 2:55:10 AM ::1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:55:11 AM 127.0.0.1 GET /static/js/main.f0c7a633.js
+ HTTP  3/30/2023 2:55:11 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:55:13 AM ::1 GET /favicon.ico
+ HTTP  3/30/2023 2:55:13 AM ::1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:57:17 AM 127.0.0.1 GET /books
+ HTTP  3/30/2023 2:57:17 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  3/30/2023 2:57:17 AM ::1 GET /static/css/main.39e51004.css
+ HTTP  3/30/2023 2:57:17 AM ::1 Returned 304 in 1 ms
+ HTTP  3/30/2023 2:57:17 AM 127.0.0.1 GET /static/js/main.f0c7a633.js
+ HTTP  3/30/2023 2:57:17 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  3/30/2023 2:57:18 AM ::1 GET /favicon.ico
+ HTTP  3/30/2023 2:57:18 AM ::1 Returned 304 in 1 ms
+ HTTP  3/30/2023 3:02:46 AM 127.0.0.1 GET /favicon.ico
+ HTTP  3/30/2023 3:02:46 AM 127.0.0.1 Returned 304 in 0 ms
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/1/2023 4:38:42 PM ::1 GET /video/04Q30babQF4
+ HTTP  4/1/2023 4:38:42 PM ::1 Returned 200 in 62 ms
+ HTTP  4/1/2023 4:38:42 PM 127.0.0.1 GET /static/js/main.924ec6e8.js
+ HTTP  4/1/2023 4:38:42 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  4/1/2023 4:38:42 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/1/2023 4:38:42 PM ::1 Returned 200 in 3 ms
+ HTTP  4/1/2023 4:38:43 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/1/2023 4:38:43 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  4/1/2023 4:38:43 PM ::1 GET /favicon.ico
+ HTTP  4/1/2023 4:38:43 PM ::1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:38:48 PM 127.0.0.1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/1/2023 4:38:48 PM ::1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/1/2023 4:38:48 PM 127.0.0.1 Returned 200 in 25 ms
+ HTTP  4/1/2023 4:38:48 PM ::1 Returned 200 in 39 ms
+ HTTP  4/1/2023 4:39:03 PM 127.0.0.1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/1/2023 4:39:03 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/1/2023 4:39:03 PM ::1 Returned 200 in 2 ms
+ HTTP  4/1/2023 4:39:03 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  4/1/2023 4:53:41 PM 127.0.0.1 GET /
+ HTTP  4/1/2023 4:53:41 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  4/1/2023 4:53:41 PM ::1 GET /logo192.png
+ HTTP  4/1/2023 4:53:41 PM ::1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:16 PM 127.0.0.1 GET /
+ HTTP  4/1/2023 4:58:16 PM 127.0.0.1 Returned 200 in 61 ms
+ HTTP  4/1/2023 4:58:22 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/1/2023 4:58:22 PM ::1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:22 PM 127.0.0.1 GET /static/js/main.924ec6e8.js
+ HTTP  4/1/2023 4:58:22 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:24 PM ::1 GET /favicon.ico
+ HTTP  4/1/2023 4:58:24 PM ::1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:24 PM 127.0.0.1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/1/2023 4:58:24 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:32 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/1/2023 4:58:32 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 4:58:32 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/1/2023 4:58:32 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:32 PM ::1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/1/2023 4:58:32 PM ::1 Returned 200 in 1 ms
+ HTTP  4/1/2023 4:58:48 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/1/2023 4:58:48 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/1/2023 4:58:48 PM ::1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/1/2023 4:58:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:05 PM 127.0.0.1 GET /
+ HTTP  4/1/2023 5:00:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:06 PM ::1 GET /static/js/main.924ec6e8.js
+ HTTP  4/1/2023 5:00:06 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:06 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/1/2023 5:00:06 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:06 PM ::1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/1/2023 5:00:06 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:06 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/1/2023 5:00:06 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:07 PM ::1 GET /favicon.ico
+ HTTP  4/1/2023 5:00:07 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:07 PM 127.0.0.1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/1/2023 5:00:07 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:17 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/1/2023 5:00:17 PM ::1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:17 PM 127.0.0.1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/1/2023 5:00:17 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/1/2023 5:00:17 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/1/2023 5:00:17 PM ::1 Returned 304 in 1 ms
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 9:27:30 AM ::1 GET /
+ HTTP  4/3/2023 9:27:30 AM ::1 Returned 200 in 12 ms
+ HTTP  4/3/2023 9:27:30 AM ::1 GET /static/js/main.924ec6e8.js
+ HTTP  4/3/2023 9:27:30 AM ::1 Returned 200 in 5 ms
+ HTTP  4/3/2023 9:27:30 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:27:30 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 9:27:31 AM ::1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/3/2023 9:27:31 AM ::1 Returned 200 in 16 ms
+ HTTP  4/3/2023 9:27:32 AM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 9:27:32 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:28:11 AM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 9:28:11 AM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:28:12 AM 127.0.0.1 GET /static/js/main.924ec6e8.js.map
+ HTTP  4/3/2023 9:28:12 AM 127.0.0.1 Returned 200 in 28 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 9:35:03 AM ::1 GET /
+ HTTP  4/3/2023 9:35:03 AM ::1 Returned 200 in 14 ms
+ HTTP  4/3/2023 9:35:04 AM 127.0.0.1 GET /static/js/main.8971c24d.js
+ HTTP  4/3/2023 9:35:04 AM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  4/3/2023 9:35:04 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:35:04 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:35:05 AM 127.0.0.1 GET /static/media/generatedGif1679851617.00b89775a6c8f47765c8.gif
+ HTTP  4/3/2023 9:35:05 AM 127.0.0.1 Returned 304 in 13 ms
+ HTTP  4/3/2023 9:35:05 AM ::1 GET /static/js/main.8971c24d.js.map
+ HTTP  4/3/2023 9:35:05 AM ::1 Returned 200 in 10 ms
+ HTTP  4/3/2023 9:35:15 AM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 9:35:15 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:44:48 AM ::1 GET /video/AAlo3eCPVbk
+ HTTP  4/3/2023 9:44:48 AM ::1 Returned 200 in 38 ms
+ HTTP  4/3/2023 9:44:48 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:44:48 AM 127.0.0.1 Returned 304 in 3 ms
+ HTTP  4/3/2023 9:44:48 AM ::1 GET /static/js/main.8971c24d.js
+ HTTP  4/3/2023 9:44:48 AM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 9:44:49 AM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 9:44:49 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:44:49 AM ::1 GET /favicon.ico
+ HTTP  4/3/2023 9:44:49 AM ::1 Returned 200 in 13 ms
+ HTTP  4/3/2023 9:44:50 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:44:50 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:44:50 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:44:50 AM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:45:05 AM 127.0.0.1 GET /static/js/main.8971c24d.js.map
+ HTTP  4/3/2023 9:45:05 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 9:45:05 AM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 9:45:05 AM ::1 Returned 304 in 0 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 9:50:20 AM 127.0.0.1 GET /video/AAlo3eCPVbk
+ HTTP  4/3/2023 9:50:20 AM 127.0.0.1 Returned 200 in 18 ms
+ HTTP  4/3/2023 9:50:20 AM ::1 GET /static/js/main.02af4359.js
+ HTTP  4/3/2023 9:50:20 AM ::1 Returned 200 in 3 ms
+ HTTP  4/3/2023 9:50:20 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:50:20 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:50:21 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540093.gif
+ HTTP  4/3/2023 9:50:21 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:50:21 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:50:21 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:50:22 AM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 9:50:22 AM ::1 Returned 200 in 5 ms
+ HTTP  4/3/2023 9:50:22 AM 127.0.0.1 GET /static/media/generatedGif1680540093.34af1948ff2a829faaa8.gif
+ HTTP  4/3/2023 9:50:22 AM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  4/3/2023 9:50:22 AM ::1 GET /static/js/main.02af4359.js.map
+ HTTP  4/3/2023 9:50:22 AM ::1 Returned 200 in 19 ms
+ HTTP  4/3/2023 9:50:22 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:50:22 AM 127.0.0.1 Returned 304 in 4 ms
+ HTTP  4/3/2023 9:50:22 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540093.gif
+ HTTP  4/3/2023 9:50:22 AM ::1 Returned 304 in 3 ms
+ HTTP  4/3/2023 9:50:24 AM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 9:50:24 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 9:50:42 AM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 9:50:42 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:51:11 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:51:11 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:51:12 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:51:12 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:52:49 AM 127.0.0.1 GET /video/1-iS7LArMPA
+ HTTP  4/3/2023 9:52:49 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:52:49 AM ::1 GET /static/js/main.02af4359.js
+ HTTP  4/3/2023 9:52:49 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:52:49 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:52:49 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:52:50 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:52:50 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:52:50 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:52:50 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:53:46 AM ::1 GET /video/1-iS7LArMPA
+ HTTP  4/3/2023 9:53:46 AM ::1 Returned 200 in 44 ms
+ HTTP  4/3/2023 9:53:47 AM 127.0.0.1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:53:47 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:53:47 AM ::1 Returned 304 in 15 ms
+ HTTP  4/3/2023 9:53:47 AM 127.0.0.1 Returned 200 in 26 ms
+ HTTP  4/3/2023 9:53:48 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:53:48 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:53:48 AM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 9:53:48 AM ::1 Returned 200 in 58 ms
+ HTTP  4/3/2023 9:53:48 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:53:48 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:53:58 AM ::1 GET /
+ HTTP  4/3/2023 9:53:58 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:53:58 AM 127.0.0.1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:53:58 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:53:58 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:53:58 AM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:53:59 AM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 9:53:59 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:53:59 AM ::1 GET /favicon.ico
+ HTTP  4/3/2023 9:53:59 AM ::1 Returned 200 in 3 ms
+ HTTP  4/3/2023 9:54:00 AM 127.0.0.1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 9:54:00 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:54:02 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:54:02 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:54:03 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:54:03 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:54:03 AM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 9:54:03 AM ::1 Returned 304 in 21 ms
+ HTTP  4/3/2023 9:54:03 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:54:03 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:54:03 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:54:03 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:08 AM 127.0.0.1 GET /video/1-iS7LArMPA
+ HTTP  4/3/2023 9:56:08 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:08 AM ::1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:56:08 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:08 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:56:08 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:09 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:56:09 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:56:10 AM 127.0.0.1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 9:56:10 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:10 AM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 9:56:10 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:10 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:56:10 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:13 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:56:13 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:13 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:56:13 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:56:14 AM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 9:56:14 AM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 9:56:14 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:56:14 AM 127.0.0.1 Returned 304 in 5 ms
+ HTTP  4/3/2023 9:56:14 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:56:14 AM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:56:29 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:56:29 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:56:29 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 9:56:29 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:03 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 9:57:03 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:03 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 9:57:03 AM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 GET /video/NIuO6hrFTrg
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:57:30 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:57:30 AM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:57:30 AM ::1 GET /logo192.png
+ HTTP  4/3/2023 9:57:30 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 GET /favicon.ico
+ HTTP  4/3/2023 9:57:30 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:57:39 AM ::1 GET /video/[object%20Object]
+ HTTP  4/3/2023 9:57:39 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:57:39 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:57:39 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:40 AM ::1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:57:40 AM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:57:40 AM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 9:57:40 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:57:40 AM ::1 GET /favicon.ico
+ HTTP  4/3/2023 9:57:40 AM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:57:40 AM 127.0.0.1 GET /video/DxZziUUr6CY
+ HTTP  4/3/2023 9:57:40 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 9:57:41 AM ::1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:57:41 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:41 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:57:41 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:42 AM ::1 GET /video/-HxJYZI9AMk
+ HTTP  4/3/2023 9:57:42 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:57:42 AM 127.0.0.1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:57:42 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:42 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:57:42 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:44 AM 127.0.0.1 GET /video/Yev1OZ-24QM
+ HTTP  4/3/2023 9:57:44 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 9:57:44 AM ::1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:57:44 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:57:44 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:57:44 AM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:59:28 AM ::1 GET /video/DxZziUUr6CY
+ HTTP  4/3/2023 9:59:28 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:59:28 AM 127.0.0.1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:59:28 AM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:59:28 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:59:28 AM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:59:29 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 9:59:29 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 9:59:29 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 9:59:29 AM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 9:59:37 AM 127.0.0.1 GET /
+ HTTP  4/3/2023 9:59:37 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:59:37 AM ::1 GET /static/js/main.4f562ed1.js
+ HTTP  4/3/2023 9:59:37 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 9:59:37 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 9:59:37 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 10:02:42 AM ::1 GET /
+ HTTP  4/3/2023 10:02:42 AM ::1 Returned 200 in 37 ms
+ HTTP  4/3/2023 10:02:42 AM 127.0.0.1 GET /static/js/main.0872f472.js
+ HTTP  4/3/2023 10:02:42 AM 127.0.0.1 Returned 200 in 18 ms
+ HTTP  4/3/2023 10:02:42 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 10:02:42 AM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 10:02:43 AM 127.0.0.1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/3/2023 10:02:43 AM 127.0.0.1 Returned 200 in 21 ms
+ HTTP  4/3/2023 10:02:43 AM ::1 GET /static/js/main.0872f472.js.map
+ HTTP  4/3/2023 10:02:43 AM ::1 Returned 200 in 26 ms
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 10:02:45 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:45 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 10:02:45 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:45 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 10:02:46 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:46 AM ::1 Returned 200 in 3 ms
+ HTTP  4/3/2023 10:02:45 AM 127.0.0.1 Returned 200 in 27 ms
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:46 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 10:02:46 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  4/3/2023 10:02:46 AM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 10:02:46 AM ::1 Returned 304 in 8 ms
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 10:02:46 AM ::1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  4/3/2023 10:02:46 AM ::1 Returned 200 in 17 ms
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 10:02:46 AM 127.0.0.1 Returned 304 in 17 ms
+ HTTP  4/3/2023 10:02:47 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 10:02:47 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:47 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 10:02:47 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 10:02:47 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 10:02:47 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:47 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 10:02:47 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 10:02:47 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 10:02:47 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:48 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 10:02:48 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:02:48 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 10:02:48 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:04:23 AM 127.0.0.1 GET /video/3B-S6Z__JqQ
+ HTTP  4/3/2023 10:04:23 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:04:23 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 10:04:23 AM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 10:04:23 AM 127.0.0.1 GET /static/js/main.0872f472.js
+ HTTP  4/3/2023 10:04:23 AM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 10:04:25 AM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 10:04:25 AM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 10:04:25 AM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 10:04:25 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 10:15:14 AM ::1 GET /video/3B-S6Z__JqQ
+ HTTP  4/3/2023 10:15:14 AM ::1 Returned 404 in 32 ms
+ HTTP  4/3/2023 10:15:18 AM 127.0.0.1 GET /
+ HTTP  4/3/2023 10:15:18 AM 127.0.0.1 Returned 200 in 16 ms
+
+ INFO  Gracefully shutting down. Please wait...
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/anooj/.npm/_logs/2023-04-03T17_15_57_432Z-debug-0.log
+
+> project_youtube_video_player@1.0.0 start
+> react-scripts start
+
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+(node:305980) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:305980) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view project_youtube_video_player in the browser.
+
+  http://localhost:3002
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+
+> project_youtube_video_player@1.0.0 start
+> react-scripts start
+
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+(node:322216) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:322216) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view project_youtube_video_player in the browser.
+
+  http://localhost:3002
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 6:46:51 PM 127.0.0.1 GET /
+ HTTP  4/3/2023 6:46:51 PM 127.0.0.1 Returned 200 in 27 ms
+ HTTP  4/3/2023 6:46:52 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 6:46:52 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  4/3/2023 6:46:52 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 6:46:52 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:46:53 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 6:46:53 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 6:47:16 PM ::1 GET /
+ HTTP  4/3/2023 6:47:16 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 6:47:16 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 6:47:16 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:47:16 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 6:47:16 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 6:49:39 PM ::1 GET /
+ HTTP  4/3/2023 6:49:39 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:49:39 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 6:49:39 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:49:39 PM ::1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 6:49:39 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:49:40 PM ::1 GET /favicon.ico
+ HTTP  4/3/2023 6:49:40 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 6:52:11 PM 127.0.0.1 GET /
+ HTTP  4/3/2023 6:52:11 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:52:12 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 6:52:12 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 6:52:12 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 6:52:12 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 6:53:10 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 6:53:10 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:21:41 PM ::1 GET /
+ HTTP  4/3/2023 7:21:41 PM ::1 Returned 304 in 37 ms
+ HTTP  4/3/2023 7:21:41 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:21:41 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:21:41 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:21:41 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:21:42 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 7:21:42 PM 127.0.0.1 Returned 200 in 21 ms
+ HTTP  4/3/2023 7:21:42 PM ::1 GET /favicon.ico
+ HTTP  4/3/2023 7:21:42 PM ::1 Returned 200 in 11 ms
+ HTTP  4/3/2023 7:21:42 PM 127.0.0.1 GET /static/media/generatedGif1680548088.d90d5e5f96f42369bd9e.gif
+ HTTP  4/3/2023 7:21:42 PM 127.0.0.1 Returned 200 in 39 ms
+ HTTP  4/3/2023 7:21:43 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:43 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:43 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:43 PM 127.0.0.1 Returned 304 in 12 ms
+ HTTP  4/3/2023 7:21:43 PM ::1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 7:21:43 PM ::1 Returned 200 in 33 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 4 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 22 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 GET /static/media/generatedGif1680541404.2d19e9d4cad012059494.gif
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 102 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 143 ms
+ HTTP  4/3/2023 7:21:44 PM ::1 Returned 200 in 159 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 205 ms
+ HTTP  4/3/2023 7:21:44 PM 127.0.0.1 Returned 200 in 243 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 Returned 200 in 19 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 7:21:45 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:21:45 PM ::1 GET /static/media/generatedGif1680541453.730283dfbf798556ccb9.gif
+ HTTP  4/3/2023 7:21:45 PM ::1 Returned 200 in 34 ms
+ HTTP  4/3/2023 7:23:28 PM ::1 GET /
+ HTTP  4/3/2023 7:23:28 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:28 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:23:28 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:28 PM ::1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:23:28 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:29 PM 127.0.0.1 GET /static/media/generatedGif1680548088.d90d5e5f96f42369bd9e.gif
+ HTTP  4/3/2023 7:23:29 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:29 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:29 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:23:29 PM 127.0.0.1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 7:23:29 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /static/media/generatedGif1680541404.2d19e9d4cad012059494.gif
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:30 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:23:30 PM ::1 GET /static/media/generatedGif1680541453.730283dfbf798556ccb9.gif
+ HTTP  4/3/2023 7:23:30 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 7:23:31 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 7:23:31 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 7:23:31 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:23:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 7:23:31 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 7:23:31 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 7:23:31 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:23:50 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:23:50 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:23:50 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 7:23:50 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:23:53 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 7:23:53 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:29:30 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:29:30 PM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 7:29:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:29:30 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:29:45 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 7:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:29:48 PM 127.0.0.1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 7:29:48 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:29:49 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:29:49 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:29:49 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:29:49 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:29:50 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:29:50 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:29:50 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 7:29:50 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:29:50 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:29:50 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:30:03 PM 127.0.0.1 GET /static/js/main.8ecc1151.js.map
+ HTTP  4/3/2023 7:30:03 PM 127.0.0.1 Returned 200 in 18 ms
+ HTTP  4/3/2023 7:34:43 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:34:43 PM ::1 Returned 304 in 4 ms
+ HTTP  4/3/2023 7:34:48 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 7:34:48 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:39:21 PM ::1 GET /
+ HTTP  4/3/2023 7:39:21 PM ::1 Returned 200 in 3 ms
+ HTTP  4/3/2023 7:39:22 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:22 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:39:24 PM ::1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:39:24 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:39:27 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/3/2023 7:39:27 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 7:39:27 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 7:39:27 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:39:29 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:29 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  4/3/2023 7:39:31 PM ::1 GET /
+ HTTP  4/3/2023 7:39:31 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:39:32 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:39:32 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:32 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:32 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:42 PM 127.0.0.1 GET /
+ HTTP  4/3/2023 7:39:42 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 7:39:42 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:42 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:39:43 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:39:43 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:39:45 PM ::1 GET /favicon.ico
+ HTTP  4/3/2023 7:39:45 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:39:46 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:46 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 7:39:46 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:46 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:46 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:46 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:47 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:47 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:47 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:47 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:48 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 7:39:49 PM ::1 GET /
+ HTTP  4/3/2023 7:39:49 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:49 PM ::1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:39:49 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/3/2023 7:39:49 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:51 PM ::1 GET /
+ HTTP  4/3/2023 7:39:51 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:51 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 7:39:51 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:51 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:51 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:52 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/3/2023 7:39:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:55 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 7:39:55 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 7:39:55 PM 127.0.0.1 GET /static/js/main.8ecc1151.js.map
+ HTTP  4/3/2023 7:39:55 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 7:39:55 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 7:39:55 PM ::1 Returned 304 in 3 ms
+ HTTP  4/3/2023 8:05:07 PM 127.0.0.1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 8:05:07 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:05:07 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:05:07 PM ::1 Returned 304 in 5 ms
+ HTTP  4/3/2023 8:05:07 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 8:05:07 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:05:09 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:05:09 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:05:09 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:05:09 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:05:14 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 8:05:14 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:05:14 PM 127.0.0.1 GET /static/js/main.8ecc1151.js.map
+ HTTP  4/3/2023 8:05:14 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:04 PM ::1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 8:12:04 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:12:04 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:12:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:04 PM ::1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 8:12:04 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:05 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 8:12:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:06 PM ::1 GET /static/js/main.8ecc1151.js.map
+ HTTP  4/3/2023 8:12:06 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:06 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:12:06 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:06 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:12:06 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:12:22 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:12:22 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:12:26 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:12:26 PM ::1 Returned 304 in 3 ms
+ HTTP  4/3/2023 8:13:48 PM 127.0.0.1 GET /src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:13:48 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  4/3/2023 8:13:48 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:13:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:13:48 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 8:13:48 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:14:57 PM ::1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 8:14:57 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:14:57 PM 127.0.0.1 GET /static/js/main.8ecc1151.js
+ HTTP  4/3/2023 8:14:57 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:14:57 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:14:57 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:14:59 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:14:59 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:14:59 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:14:59 PM ::1 Returned 200 in 0 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 8:20:17 PM 127.0.0.1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 8:20:17 PM 127.0.0.1 Returned 200 in 20 ms
+ HTTP  4/3/2023 8:20:18 PM ::1 GET /static/js/main.141e9055.js
+ HTTP  4/3/2023 8:20:18 PM ::1 Returned 200 in 4 ms
+ HTTP  4/3/2023 8:20:18 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:20:18 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:20:19 PM ::1 GET /static/media/generatedGif1680575318.b7fe20256a227faf33de.gif
+ HTTP  4/3/2023 8:20:19 PM 127.0.0.1 GET /static/media/generatedGif1680575162.12c9d154e9beba8e30b2.gif
+ HTTP  4/3/2023 8:20:19 PM ::1 Returned 200 in 12 ms
+ HTTP  4/3/2023 8:20:19 PM 127.0.0.1 Returned 200 in 36 ms
+ HTTP  4/3/2023 8:20:21 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 8:20:21 PM ::1 Returned 304 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/3/2023 8:22:24 PM ::1 GET /static/media/generatedGif1680575318.b7fe20256a227faf33de.gif
+ HTTP  4/3/2023 8:22:24 PM ::1 Returned 200 in 28 ms
+ HTTP  4/3/2023 8:22:31 PM ::1 GET /video/kxwuFPFUZyY
+ HTTP  4/3/2023 8:22:31 PM ::1 Returned 200 in 3 ms
+ HTTP  4/3/2023 8:22:32 PM 127.0.0.1 GET /static/js/main.686dcb13.js
+ HTTP  4/3/2023 8:22:32 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:32 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:22:32 PM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:33 PM 127.0.0.1 GET /static/media/generatedGif1680575318.b7fe20256a227faf33de.gif
+ HTTP  4/3/2023 8:22:33 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:22:33 PM ::1 GET /static/media/generatedGif1680575162.12c9d154e9beba8e30b2.gif
+ HTTP  4/3/2023 8:22:33 PM ::1 Returned 304 in 6 ms
+ HTTP  4/3/2023 8:22:35 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 8:22:35 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:22:57 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:57 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:57 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:57 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 6 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 304 in 12 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 304 in 19 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 304 in 18 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 304 in 33 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 304 in 30 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 304 in 16 ms
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 304 in 19 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /static/media/generatedGif1680541404.2d19e9d4cad012059494.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 GET /static/media/generatedGif1680548088.d90d5e5f96f42369bd9e.gif
+ HTTP  4/3/2023 8:22:58 PM ::1 GET /static/media/generatedGif1680541453.730283dfbf798556ccb9.gif
+ HTTP  4/3/2023 8:22:58 PM 127.0.0.1 Returned 304 in 38 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 304 in 60 ms
+ HTTP  4/3/2023 8:22:58 PM ::1 Returned 304 in 44 ms
+ HTTP  4/3/2023 8:22:59 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:22:59 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:00 PM ::1 GET /
+ HTTP  4/3/2023 8:42:00 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:01 PM 127.0.0.1 GET /static/js/main.686dcb13.js
+ HTTP  4/3/2023 8:42:01 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:42:01 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:01 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:04 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:42:04 PM ::1 GET /favicon.ico
+ HTTP  4/3/2023 8:42:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:42:04 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:42:05 PM 127.0.0.1 GET /static/media/generatedGif1680575318.b7fe20256a227faf33de.gif
+ HTTP  4/3/2023 8:42:05 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:06 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:06 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:09 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:09 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:10 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:10 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:42:11 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:11 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:42:14 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:14 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:15 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:15 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:42:16 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:42:16 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:17 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:17 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:19 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:19 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:20 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:20 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:42:21 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:21 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:23 PM 127.0.0.1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 8:42:23 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:26 PM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 8:42:26 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:42:28 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:28 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:28 PM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 8:42:28 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:42:29 PM 127.0.0.1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 8:42:29 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:30 PM ::1 GET /signup
+ HTTP  4/3/2023 8:42:30 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:33 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:42:33 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:37 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:42:37 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:39 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:42:39 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:41 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:42:41 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:42:44 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:47 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:42:47 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:50 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 8:42:50 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:52 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 8:42:52 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:42:55 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:42:55 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:42:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:42:58 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:00 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:43:00 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:02 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:02 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:05 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:43:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:07 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:07 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:09 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:43:09 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:43:11 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:11 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:43:15 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:15 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:17 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:43:17 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:19 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:19 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:43:23 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:23 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:43:26 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:26 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:28 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:43:28 PM ::1 Returned 304 in 5 ms
+ HTTP  4/3/2023 8:43:30 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:30 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:43:34 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:43:34 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:35 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:43:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:37 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:37 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:43:41 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:43:41 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:43:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:44 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:43:46 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:43:46 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:43:48 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:43:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:51 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:43:51 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:43:53 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:43:53 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:43:56 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:56 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:43:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:43:58 PM ::1 Returned 200 in 5 ms
+ HTTP  4/3/2023 8:44:01 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:01 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:44:04 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:04 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:07 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:07 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:09 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:09 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:12 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:12 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:13 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:44:13 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:15 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:15 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:17 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:44:17 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:19 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:44:19 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:20 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:20 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:23 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:23 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:25 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 8:44:25 PM ::1 Returned 304 in 3 ms
+ HTTP  4/3/2023 8:44:26 PM 127.0.0.1 GET /
+ HTTP  4/3/2023 8:44:26 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:26 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:44:26 PM ::1 Returned 200 in 6 ms
+ HTTP  4/3/2023 8:44:26 PM 127.0.0.1 GET /static/js/main.686dcb13.js
+ HTTP  4/3/2023 8:44:26 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:27 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:44:27 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:27 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:44:27 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 GET /static/media/generatedGif1680575318.b7fe20256a227faf33de.gif
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:27 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:27 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 GET /static/media/generatedGif1680541026.2c8e5383bf121814da89.gif
+ HTTP  4/3/2023 8:44:27 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 GET /static/media/generatedGif1680541056.293f7cbfb010d4b050d3.gif
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 8:44:28 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:28 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 8:44:28 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:31 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 8:44:31 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:31 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:31 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:32 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:32 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:32 PM ::1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:32 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/3/2023 8:44:32 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:32 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:32 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:33 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:44:33 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 Returned 200 in 15 ms
+ HTTP  4/3/2023 8:44:33 PM ::1 GET /static/media/generatedGif1680541404.2d19e9d4cad012059494.gif
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 GET /static/media/generatedGif1680548088.d90d5e5f96f42369bd9e.gif
+ HTTP  4/3/2023 8:44:33 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:33 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:34 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 8:44:34 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:36 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:44:36 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/3/2023 8:44:36 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 8:44:36 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 8:44:36 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 8:44:36 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:36 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 8:44:37 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  4/3/2023 8:44:37 PM ::1 Returned 200 in 6 ms
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:44:37 PM ::1 GET /static/media/generatedGif1680541453.730283dfbf798556ccb9.gif
+ HTTP  4/3/2023 8:44:37 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 8:44:37 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:40 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 8:44:40 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:44:42 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:44:42 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:43 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:44:43 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:44:44 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:44 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:45 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:45 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:45 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:45 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:45 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:45 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:46 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:44:46 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541026.gif
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/3/2023 8:44:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541056.gif
+ HTTP  4/3/2023 8:44:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/3/2023 8:44:48 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/3/2023 8:44:48 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:44:49 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541404.gif
+ HTTP  4/3/2023 8:44:49 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:49 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680548088.gif
+ HTTP  4/3/2023 8:44:49 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:44:49 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/3/2023 8:44:49 PM ::1 Returned 304 in 2 ms
+ HTTP  4/3/2023 8:44:49 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680575318.gif
+ HTTP  4/3/2023 8:44:49 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:49:53 PM ::1 GET /
+ HTTP  4/3/2023 8:49:53 PM ::1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:49:53 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 8:49:53 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:49:53 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/3/2023 8:49:53 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:49:53 PM 127.0.0.1 GET /static/js/main.686dcb13.js
+ HTTP  4/3/2023 8:49:53 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/3/2023 8:49:56 PM ::1 GET /favicon.ico
+ HTTP  4/3/2023 8:49:56 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:49:57 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:49:57 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 8:49:57 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:49:57 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:49:57 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:49:57 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:49:58 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:49:58 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:49:58 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 8:49:58 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 8:50:10 PM ::1 GET /logo192.png
+ HTTP  4/3/2023 8:50:10 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 8:50:50 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 8:50:50 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:23:52 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/3/2023 11:23:52 PM ::1 Returned 200 in 0 ms
+ HTTP  4/3/2023 11:23:52 PM 127.0.0.1 GET /static/js/main.686dcb13.js
+ HTTP  4/3/2023 11:23:52 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/3/2023 11:24:02 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:02 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:24:04 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:04 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:24:05 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:05 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 11:24:06 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:06 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 11:24:08 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:08 PM ::1 Returned 304 in 4 ms
+ HTTP  4/3/2023 11:24:09 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:09 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:24:11 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:11 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 11:24:15 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:15 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:24:16 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:16 PM ::1 Returned 304 in 0 ms
+ HTTP  4/3/2023 11:24:18 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/3/2023 11:24:27 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/3/2023 11:24:27 PM ::1 Returned 304 in 1 ms
+ HTTP  4/3/2023 11:25:01 PM 127.0.0.1 GET /logo192.png
+ HTTP  4/3/2023 11:25:01 PM 127.0.0.1 Returned 304 in 0 ms
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/5/2023 11:53:10 AM 127.0.0.1 GET /
+ HTTP  4/5/2023 11:53:10 AM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  4/5/2023 11:53:10 AM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/5/2023 11:53:10 AM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  4/5/2023 11:53:10 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/5/2023 11:53:10 AM ::1 Returned 304 in 1 ms
+ HTTP  4/5/2023 11:53:11 AM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/5/2023 11:53:11 AM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  4/5/2023 11:53:31 AM ::1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/5/2023 11:53:31 AM ::1 Returned 304 in 2 ms
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/anooj/.npm/_logs/2023-04-09T06_11_16_329Z-debug-0.log
+ INFO  Accepting connections at http://localhost:42195
+ HTTP  4/8/2023 11:11:59 PM 127.0.0.1 GET /
+ HTTP  4/8/2023 11:11:59 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:00 PM ::1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:12:00 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:00 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:12:00 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:01 PM ::1 GET /favicon.ico
+ HTTP  4/8/2023 11:12:01 PM ::1 Returned 200 in 2 ms
+ HTTP  4/8/2023 11:12:50 PM 127.0.0.1 GET /
+ HTTP  4/8/2023 11:12:50 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/8/2023 11:12:50 PM ::1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:12:50 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:50 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:12:50 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:51 PM ::1 GET /static/media/generatedGif1680579968.c47e419849fcd3195493.gif
+ HTTP  4/8/2023 11:12:51 PM ::1 Returned 200 in 12 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /static/media/generatedGif1680541220.4e6850328183f15ff083.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /static/media/generatedGif1680541163.d71c0c9e1df22b1e456b.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /static/media/generatedGif1680540269.be20cad0ddfee56f2c1e.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 200 in 38 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /static/media/generatedGif1680540756.20eacc99a592bdb1857c.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541220.gif
+ HTTP  4/8/2023 11:12:55 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:55 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541163.gif
+ HTTP  4/8/2023 11:12:55 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540269.gif
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:56 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680540756.gif
+ HTTP  4/8/2023 11:12:56 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541325.gif
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/8/2023 11:12:56 PM ::1 GET /home/anooj/prod/allsmartcamsfrontend/take2/frontend/src/generatedSnaps/generatedGif1680541453.gif
+ HTTP  4/8/2023 11:12:56 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 GET /static/media/generatedGif1680541325.0836290b9c4b777cf688.gif
+ HTTP  4/8/2023 11:12:56 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  4/8/2023 11:12:56 PM ::1 GET /static/media/generatedGif1680541453.730283dfbf798556ccb9.gif
+ HTTP  4/8/2023 11:12:56 PM ::1 Returned 200 in 9 ms
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 GET /video/BWXv8tHPsu8
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/8/2023 11:16:42 PM ::1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:16:42 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:16:42 PM ::1 GET /logo192.png
+ HTTP  4/8/2023 11:16:42 PM ::1 Returned 200 in 2 ms
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/8/2023 11:16:42 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/8/2023 11:17:06 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/8/2023 11:17:06 PM ::1 Returned 200 in 2 ms
+
+ INFO  Gracefully shutting down. Please wait...
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/8/2023 11:26:27 PM 127.0.0.1 GET /video/BWXv8tHPsu8
+ HTTP  4/8/2023 11:26:27 PM 127.0.0.1 Returned 304 in 19 ms
+ HTTP  4/8/2023 11:26:27 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:26:27 PM ::1 Returned 304 in 3 ms
+ HTTP  4/8/2023 11:26:27 PM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:26:27 PM 127.0.0.1 Returned 304 in 4 ms
+ HTTP  4/8/2023 11:26:27 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/8/2023 11:26:27 PM ::1 Returned 200 in 3 ms
+ HTTP  4/8/2023 11:26:30 PM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/8/2023 11:26:30 PM 127.0.0.1 Returned 304 in 12 ms
+ HTTP  4/8/2023 11:27:21 PM ::1 GET /video/BWXv8tHPsu8
+ HTTP  4/8/2023 11:27:21 PM ::1 Returned 304 in 2 ms
+ HTTP  4/8/2023 11:27:22 PM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:27:22 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:27:22 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:27:22 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:27:23 PM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/8/2023 11:27:23 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:27:50 PM ::1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/8/2023 11:27:50 PM ::1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:28:03 PM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/8/2023 11:28:03 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:28:19 PM ::1 GET /video/BWXv8tHPsu8
+ HTTP  4/8/2023 11:28:19 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:28:19 PM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/8/2023 11:28:19 PM 127.0.0.1 Returned 200 in 0 ms
+ HTTP  4/8/2023 11:28:19 PM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/8/2023 11:28:19 PM ::1 Returned 200 in 0 ms
+ HTTP  4/8/2023 11:28:20 PM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/8/2023 11:28:20 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/8/2023 11:28:21 PM ::1 GET /logo192.png
+ HTTP  4/8/2023 11:28:21 PM ::1 Returned 200 in 1 ms
+ HTTP  4/8/2023 11:28:21 PM 127.0.0.1 GET /favicon.ico
+ HTTP  4/8/2023 11:28:21 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/8/2023 11:28:21 PM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/8/2023 11:28:21 PM ::1 Returned 304 in 1 ms
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/15/2023 9:19:25 AM ::1 GET /
+ HTTP  4/15/2023 9:19:25 AM ::1 Returned 200 in 13 ms
+ HTTP  4/15/2023 9:19:25 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/15/2023 9:19:25 AM ::1 Returned 200 in 2 ms
+ HTTP  4/15/2023 9:19:25 AM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/15/2023 9:19:25 AM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  4/15/2023 9:19:26 AM ::1 GET /logo192.png
+ HTTP  4/15/2023 9:19:26 AM ::1 Returned 200 in 1 ms
+ HTTP  4/15/2023 9:19:35 AM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/15/2023 9:19:35 AM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/15/2023 9:19:35 AM ::1 Returned 200 in 2 ms
+ HTTP  4/15/2023 9:19:35 AM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  4/15/2023 9:21:11 AM 127.0.0.1 GET /
+ HTTP  4/15/2023 9:21:11 AM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  4/15/2023 9:21:11 AM ::1 GET /static/js/main.a2e9730e.js
+ HTTP  4/15/2023 9:21:11 AM ::1 Returned 304 in 2 ms
+ HTTP  4/15/2023 9:21:11 AM 127.0.0.1 GET /static/css/main.926b770b.css
+ HTTP  4/15/2023 9:21:11 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:21:12 AM ::1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/15/2023 9:21:12 AM ::1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:21:13 AM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/15/2023 9:21:13 AM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  4/15/2023 9:23:18 AM ::1 GET /
+ HTTP  4/15/2023 9:23:18 AM ::1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:23:18 AM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/15/2023 9:23:18 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:23:18 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/15/2023 9:23:18 AM ::1 Returned 304 in 2 ms
+ HTTP  4/15/2023 9:23:18 AM 127.0.0.1 GET /static/css/main.926b770b.css.map
+ HTTP  4/15/2023 9:23:18 AM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  4/15/2023 9:23:19 AM ::1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/15/2023 9:23:19 AM ::1 Returned 304 in 0 ms
+ HTTP  4/15/2023 9:23:39 AM ::1 GET /
+ HTTP  4/15/2023 9:23:39 AM ::1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:23:39 AM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/15/2023 9:23:39 AM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  4/15/2023 9:23:39 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/15/2023 9:23:39 AM ::1 Returned 304 in 2 ms
+ HTTP  4/15/2023 9:23:40 AM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/15/2023 9:23:40 AM 127.0.0.1 Returned 304 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  4/26/2023 10:20:29 AM ::1 GET /
+ HTTP  4/26/2023 10:20:29 AM ::1 Returned 200 in 26 ms
+ HTTP  4/26/2023 10:20:29 AM 127.0.0.1 GET /static/js/main.a2e9730e.js
+ HTTP  4/26/2023 10:20:29 AM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  4/26/2023 10:20:29 AM ::1 GET /static/css/main.926b770b.css
+ HTTP  4/26/2023 10:20:29 AM ::1 Returned 200 in 3 ms
+ HTTP  4/26/2023 10:20:30 AM 127.0.0.1 GET /logo192.png
+ HTTP  4/26/2023 10:20:30 AM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  4/26/2023 10:20:38 AM ::1 GET /static/css/main.926b770b.css.map
+ HTTP  4/26/2023 10:20:38 AM 127.0.0.1 GET /static/js/main.a2e9730e.js.map
+ HTTP  4/26/2023 10:20:38 AM ::1 Returned 200 in 2 ms
+ HTTP  4/26/2023 10:20:38 AM 127.0.0.1 Returned 200 in 12 ms
+
+ INFO  Gracefully shutting down. Please wait...
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/anooj/.npm/_logs/2023-04-26T17_20_49_099Z-debug-0.log
+
+> project_youtube_video_player@1.0.0 start
+> react-scripts start
+
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+(node:798655) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:798655) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view project_youtube_video_player in the browser.
+
+  http://localhost:3002
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
