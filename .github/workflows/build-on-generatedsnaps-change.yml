@@ -1,14 +1,9 @@
 name: Node.js CI
 
 on:
-  push:
-    branches: ["main"]
+  push: 
     paths:
-      - "src/generatedSnaps/**"
-  pull_request:
-    branches: ["main"]
-    paths:
-      - "src/generatedSnaps/**"
+      - "src/generatedSnaps/**" 
 
 jobs:
   build:
